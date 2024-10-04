@@ -2,4 +2,4 @@
 # este script es estable - 2024-10-04
 
 echo "Hello World"
-v1
+v1.1
